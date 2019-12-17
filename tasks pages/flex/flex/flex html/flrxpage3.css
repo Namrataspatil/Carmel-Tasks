@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #f1f1f1;
+}
+
+
+
+.not1{
+    margin: 0px 0px 0px 20px;
+}
+#wrap:after {
+    display: block;
+    height: 0px;
+    clear: both;
+    float: none;
+  }
+  #wrap div {
+    float: left;
+    word-break: break-all;
+  }
+  #one {
+    width: 60%;
+   
+  }
+  #two {
+    width: 30%;
+
+  }
+  #three {
+    width: 10%;
+
+  }
